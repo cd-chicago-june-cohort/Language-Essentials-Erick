@@ -1,0 +1,10 @@
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Fundamentals1/bin/Debug/netcoreapp2.0/Fundamentals1.deps.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Fundamentals1/bin/Debug/netcoreapp2.0/Fundamentals1.runtimeconfig.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Fundamentals1/bin/Debug/netcoreapp2.0/Fundamentals1.runtimeconfig.dev.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Fundamentals1/bin/Debug/netcoreapp2.0/Fundamentals1.dll
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Fundamentals1/bin/Debug/netcoreapp2.0/Fundamentals1.pdb
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Fundamentals1/obj/Debug/netcoreapp2.0/Fundamentals1.csproj.CoreCompileInputs.cache
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Fundamentals1/obj/Debug/netcoreapp2.0/Fundamentals1.AssemblyInfoInputs.cache
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Fundamentals1/obj/Debug/netcoreapp2.0/Fundamentals1.AssemblyInfo.cs
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Fundamentals1/obj/Debug/netcoreapp2.0/Fundamentals1.dll
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Fundamentals1/obj/Debug/netcoreapp2.0/Fundamentals1.pdb
