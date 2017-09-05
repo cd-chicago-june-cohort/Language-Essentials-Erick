@@ -1,0 +1,10 @@
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Basic13/bin/Debug/netcoreapp2.0/Basic13.deps.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Basic13/bin/Debug/netcoreapp2.0/Basic13.runtimeconfig.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Basic13/bin/Debug/netcoreapp2.0/Basic13.runtimeconfig.dev.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Basic13/bin/Debug/netcoreapp2.0/Basic13.dll
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Basic13/bin/Debug/netcoreapp2.0/Basic13.pdb
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Basic13/obj/Debug/netcoreapp2.0/Basic13.csproj.CoreCompileInputs.cache
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Basic13/obj/Debug/netcoreapp2.0/Basic13.AssemblyInfoInputs.cache
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Basic13/obj/Debug/netcoreapp2.0/Basic13.AssemblyInfo.cs
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Basic13/obj/Debug/netcoreapp2.0/Basic13.dll
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Basic13/obj/Debug/netcoreapp2.0/Basic13.pdb
