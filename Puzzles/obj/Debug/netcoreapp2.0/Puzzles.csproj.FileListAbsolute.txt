@@ -1,0 +1,10 @@
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.deps.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.runtimeconfig.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.runtimeconfig.dev.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.dll
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.pdb
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.csproj.CoreCompileInputs.cache
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.AssemblyInfoInputs.cache
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.AssemblyInfo.cs
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.dll
+/Users/erick_ruiz23/Desktop/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.pdb
