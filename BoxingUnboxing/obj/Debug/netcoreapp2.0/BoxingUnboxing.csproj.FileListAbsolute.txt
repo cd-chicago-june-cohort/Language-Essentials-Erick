@@ -1,0 +1,10 @@
+/Users/erick_ruiz23/Desktop/LanguageEssentials/BoxingUnboxing/bin/Debug/netcoreapp2.0/BoxingUnboxing.deps.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/BoxingUnboxing/bin/Debug/netcoreapp2.0/BoxingUnboxing.runtimeconfig.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/BoxingUnboxing/bin/Debug/netcoreapp2.0/BoxingUnboxing.runtimeconfig.dev.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/BoxingUnboxing/bin/Debug/netcoreapp2.0/BoxingUnboxing.dll
+/Users/erick_ruiz23/Desktop/LanguageEssentials/BoxingUnboxing/bin/Debug/netcoreapp2.0/BoxingUnboxing.pdb
+/Users/erick_ruiz23/Desktop/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp2.0/BoxingUnboxing.csproj.CoreCompileInputs.cache
+/Users/erick_ruiz23/Desktop/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp2.0/BoxingUnboxing.AssemblyInfoInputs.cache
+/Users/erick_ruiz23/Desktop/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp2.0/BoxingUnboxing.AssemblyInfo.cs
+/Users/erick_ruiz23/Desktop/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp2.0/BoxingUnboxing.dll
+/Users/erick_ruiz23/Desktop/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp2.0/BoxingUnboxing.pdb
