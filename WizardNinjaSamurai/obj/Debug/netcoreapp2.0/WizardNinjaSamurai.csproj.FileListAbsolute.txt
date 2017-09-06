@@ -1,0 +1,10 @@
+/Users/erick_ruiz23/Desktop/LanguageEssentials/WizardNinjaSamurai/bin/Debug/netcoreapp2.0/WizardNinjaSamurai.deps.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/WizardNinjaSamurai/bin/Debug/netcoreapp2.0/WizardNinjaSamurai.runtimeconfig.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/WizardNinjaSamurai/bin/Debug/netcoreapp2.0/WizardNinjaSamurai.runtimeconfig.dev.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/WizardNinjaSamurai/bin/Debug/netcoreapp2.0/WizardNinjaSamurai.dll
+/Users/erick_ruiz23/Desktop/LanguageEssentials/WizardNinjaSamurai/bin/Debug/netcoreapp2.0/WizardNinjaSamurai.pdb
+/Users/erick_ruiz23/Desktop/LanguageEssentials/WizardNinjaSamurai/obj/Debug/netcoreapp2.0/WizardNinjaSamurai.csproj.CoreCompileInputs.cache
+/Users/erick_ruiz23/Desktop/LanguageEssentials/WizardNinjaSamurai/obj/Debug/netcoreapp2.0/WizardNinjaSamurai.AssemblyInfoInputs.cache
+/Users/erick_ruiz23/Desktop/LanguageEssentials/WizardNinjaSamurai/obj/Debug/netcoreapp2.0/WizardNinjaSamurai.AssemblyInfo.cs
+/Users/erick_ruiz23/Desktop/LanguageEssentials/WizardNinjaSamurai/obj/Debug/netcoreapp2.0/WizardNinjaSamurai.dll
+/Users/erick_ruiz23/Desktop/LanguageEssentials/WizardNinjaSamurai/obj/Debug/netcoreapp2.0/WizardNinjaSamurai.pdb
