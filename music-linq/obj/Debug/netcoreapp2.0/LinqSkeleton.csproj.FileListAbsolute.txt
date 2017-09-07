@@ -1,0 +1,10 @@
+/Users/erick_ruiz23/Desktop/LanguageEssentials/music-linq/bin/Debug/netcoreapp2.0/LinqSkeleton.deps.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/music-linq/bin/Debug/netcoreapp2.0/LinqSkeleton.runtimeconfig.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/music-linq/bin/Debug/netcoreapp2.0/LinqSkeleton.runtimeconfig.dev.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/music-linq/bin/Debug/netcoreapp2.0/LinqSkeleton.dll
+/Users/erick_ruiz23/Desktop/LanguageEssentials/music-linq/bin/Debug/netcoreapp2.0/LinqSkeleton.pdb
+/Users/erick_ruiz23/Desktop/LanguageEssentials/music-linq/obj/Debug/netcoreapp2.0/LinqSkeleton.csproj.CoreCompileInputs.cache
+/Users/erick_ruiz23/Desktop/LanguageEssentials/music-linq/obj/Debug/netcoreapp2.0/LinqSkeleton.AssemblyInfoInputs.cache
+/Users/erick_ruiz23/Desktop/LanguageEssentials/music-linq/obj/Debug/netcoreapp2.0/LinqSkeleton.AssemblyInfo.cs
+/Users/erick_ruiz23/Desktop/LanguageEssentials/music-linq/obj/Debug/netcoreapp2.0/LinqSkeleton.dll
+/Users/erick_ruiz23/Desktop/LanguageEssentials/music-linq/obj/Debug/netcoreapp2.0/LinqSkeleton.pdb
