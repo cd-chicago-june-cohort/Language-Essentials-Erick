@@ -1,0 +1,10 @@
+/Users/erick_ruiz23/Desktop/LanguageEssentials/SQLDatabaseReview/bin/Debug/netcoreapp2.0/SQLDatabaseReview.deps.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/SQLDatabaseReview/bin/Debug/netcoreapp2.0/SQLDatabaseReview.runtimeconfig.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/SQLDatabaseReview/bin/Debug/netcoreapp2.0/SQLDatabaseReview.runtimeconfig.dev.json
+/Users/erick_ruiz23/Desktop/LanguageEssentials/SQLDatabaseReview/bin/Debug/netcoreapp2.0/SQLDatabaseReview.dll
+/Users/erick_ruiz23/Desktop/LanguageEssentials/SQLDatabaseReview/bin/Debug/netcoreapp2.0/SQLDatabaseReview.pdb
+/Users/erick_ruiz23/Desktop/LanguageEssentials/SQLDatabaseReview/obj/Debug/netcoreapp2.0/SQLDatabaseReview.csproj.CoreCompileInputs.cache
+/Users/erick_ruiz23/Desktop/LanguageEssentials/SQLDatabaseReview/obj/Debug/netcoreapp2.0/SQLDatabaseReview.AssemblyInfoInputs.cache
+/Users/erick_ruiz23/Desktop/LanguageEssentials/SQLDatabaseReview/obj/Debug/netcoreapp2.0/SQLDatabaseReview.AssemblyInfo.cs
+/Users/erick_ruiz23/Desktop/LanguageEssentials/SQLDatabaseReview/obj/Debug/netcoreapp2.0/SQLDatabaseReview.dll
+/Users/erick_ruiz23/Desktop/LanguageEssentials/SQLDatabaseReview/obj/Debug/netcoreapp2.0/SQLDatabaseReview.pdb
